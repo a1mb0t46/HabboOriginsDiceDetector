@@ -3,3 +3,5 @@
 Detects if a dice was placed, moved or picked up.
 
 Running on python. Make sure you install Scapy.
+
+Detects both EDice and EDiceHC
